@@ -61,8 +61,6 @@ The following format specifiers are supported in `ft_printf`:
 - `%X`: Hexadecimal (uppercase)
 - `%%`: Percent sign
 
-[INSERT ANY OTHER SPECIFIC FORMAT SPECIFIERS USED IN YOUR PROJECT]
-
 ## Example
 
 ```c
